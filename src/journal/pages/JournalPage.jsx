@@ -6,6 +6,10 @@ export const JournalPage = () => {
     <JournalLayout>
       <Typography>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam assumenda neque, sed autem possimus corporis soluta odit facilis facere hic perspiciatis impedit rerum dignissimos, amet voluptatum molestias dolores aspernatur nihil!
+      
+        {/* Nothing selected */}
+
+        {/* Noteview */}
       </Typography>
     </JournalLayout>
   )
